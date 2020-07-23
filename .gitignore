@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom
+/.idea/
+/.max_page_number.json
+/tmp/
+/eorzea_database_*/
+/xivapi/
+/all_eorzea_database.json
+/all_xivapi.json
+/raw_illegal.json
+/raw_mapping.json

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ffxiv-id-mapping"
+version = "0.1.0"
+description = ""
+authors = ["sinofseven <em.s.00001@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+beautifulsoup4 = "^4.9.1"
+
+[tool.poetry.dev-dependencies]
+isort = "^5.1.2"
+black = "^19.10b0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
